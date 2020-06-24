@@ -1,0 +1,9 @@
+﻿23456;Avianca Aerotaxi;Cali;Pasto;Cédula de Extranjeria;Albeiro Coral;445656;calle 2 # 33-65;2020-06-30
+12345;EasyFly;Ipiales;Pasto;Cédula de Ciudadania;Edwin Albeiro;32133344545;Diagonal 13 #14-85;2020-06-1612;Avianca Aerotaxi;Cali;Pasto;Cédula de Extranjeria;Edwin;33333;Transversal 17 # 45-63;2020-07-30
+1085907;Avianca Aerotaxi;Pasto;Popayán;Cédula de Extranjeria;Edwin Albeiro;3333;calle 2 # 33-65;2020-07-29
+5555555;EasyFly;Cali;Cúcuta;Pasaporte;Otra Persona;1234;Diagonal 13 #14-85;2020-07-10
+1085946;LATAM (Colombia);Ipiales;Bogotá D.C.;Cédula de Ciudadania;Silvia Fuertes ;3155158085;Calle 12 # 4-24;2020-07-10
+11111;Avianca Aerotaxi;Ipiales;Popayán;Cédula de Ciudadania;;1222222222;Cra 2 # 3-28;2020-07-22
+343434343;EasyFly;Cali;Popayán;Cédula de Extranjeria;Armando Esteban Quito;123455;Transversal 17 # 45-63;2020-07-09
+1085;Avianca Aerotaxi;Ipiales;Popayan;Cédula de Extranjeria;Edwin Albeiro;123;Cra 2 # 3-28;2020-07-15
+11111;Avianca Aerotaxi;Tumaco;Cúcuta;Cédula de Extranjeria;Alguien;2222;Diagonal 13 #14-85;2020-07-31
